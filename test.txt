@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 primeira linha de codigo teste 1
 segunda linha
+=======
+primeira linha de codigo teste 
+>>>>>>> 1fece5a13ee08ab7792609dbad3f587b9ecfbfa9
